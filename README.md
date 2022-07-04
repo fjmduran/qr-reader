@@ -6,7 +6,7 @@ He tardado un par de horas de descubrir cómo poder seleccionar la cámara y ese
 
 Para ejecutarlo, cuando tengas clonado el repositorio ejecuta ``npm install``
 
-![screenshot de la aplicación de lector de código QR en Angular 13](./src/assets/img.png)
+![screenshot de la aplicación de lector de código QR en Angular 13](https://github.com/fjmduran/qr-reader/blob/master/src/assets/img.jpg?raw=true)
 
 Uso la versión 3.5.0 de la librería [ngx-scanner](https://github.com/zxing-js/ngx-scanner)
 
